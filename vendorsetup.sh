@@ -6,3 +6,5 @@ export FOX_USE_TWRP_RECOVERY_IMAGE_BUILDER=1
 export OF_DONT_PATCH_ENCRYPTED_DEVICE=1
 export OF_NO_ENCRYPTED_DATA=1
 export OF_SKIP_DECRYPT=1
+add_lunch_combo omni_a03core-userdebug
+add_lunch_combo omni_a03core-eng
